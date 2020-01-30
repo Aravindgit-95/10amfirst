@@ -20,7 +20,13 @@ public class BaseClass {
 	}
 	
 	public static void click(WebElement e) {
-		e.click();		
+		e.click();	
+
+	}
+	
+	private void sysout() {
+		System.out.println("aravind");
+		System.out.println("aravind");
 
 	}
 	
